@@ -10,7 +10,7 @@ Below is a directory of the core projects in my portfolio. Each link leads to a 
 
 | Project | Architecture / Tech Stack | Core Business Value | Status |
 | :--- | :--- | :--- | :--- |
-| **[Multi-Agent Blog Generator](link-to-repo)** | LangGraph, FastAPI, ChromaDB, Streamlit | Automates end-to-end SEO content pipelines with factual RAG validation and multi-agent peer review. | Active |
+| **[Multi-Agent Blog Generator](https://github.com/anand-menat/multi-agent-blog-generator)** | LangGraph, FastAPI, ChromaDB, Streamlit | Automates end-to-end SEO content pipelines with factual RAG validation and multi-agent peer review. | Active |
 
 
 ## Technical Skill Stack
