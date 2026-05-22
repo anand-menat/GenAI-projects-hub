@@ -1,17 +1,8 @@
-# Anand Menat | AI & Machine Learning Engineer
+﻿# Anand Menat | AI & Machine Learning Engineer
 
 Welcome to my Generative AI engineering portfolio. 
 
 Bridging a foundation in mathematics and business intelligence with hands-on AI engineering, I build scalable, production-ready Generative AI systems to solve complex real-world problems. This repository serves as the central hub for my professional AI projects, demonstrating a commitment to clean architecture, deployment readiness, and advanced machine learning patterns.
-
-## Engineering Philosophy
-
-My workflow prioritizes engineering maturity over simple API integration. When developing applications, I focus on:
-
-* **Production-Ready Architecture:** Transitioning AI proofs-of-concept into robust applications using FastAPI, modular agent designs, and containerization.
-* **Hardware & Compute Optimization:** Developing and debugging locally within WSL2 environments to manage GPU VRAM constraints, and scaling up to cloud GPU platforms (like Vast.ai and RunPod) for heavier deep learning workloads.
-* **Data-Driven Validation:** Utilizing data visualization libraries like Seaborn and Matplotlib to rigorously evaluate statistical distributions and model performance.
-* **Advanced LLM Orchestration:** Leveraging LangChain and LangGraph to build cyclical, intelligent multi-agent systems rather than relying on linear, single-shot prompts.
 
 ## Project Portfolio
 
