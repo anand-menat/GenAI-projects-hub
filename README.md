@@ -36,7 +36,7 @@ Below is a directory of the core projects in my portfolio. Each link leads to a 
 
 I am currently open to freelance, contract, and applied AI engineering opportunities where I can design and deploy intelligent systems. 
 
-* **Email:** [Your Professional Email]
+* **Email:** [anandmenat@outlook.com]
 
 ---
 *My continuous workflow: Learn → Build → Publish → Showcase → Improve*
